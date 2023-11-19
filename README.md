@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ladenpipe
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... toomuch          - name: GitHub Script
-            uses: actions/github-script@v7.0.1
+            uses: actions/gith
+          
+          ub-script@v7.0.1
         # learning
 - 💞️ I’m looking to collaborate on ...learning .
 - 📫 How to reach me ... <call>
